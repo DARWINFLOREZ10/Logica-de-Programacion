@@ -3,13 +3,13 @@ package com.actividad2;
 public class Main {
     public static void main(String[] args) {
         // Definición de variables
-        int a = 10;
+        int a = 11;
         int b = 5;
         double c = 7.5;
         boolean condicion1 = true;
         boolean condicion2 = false;
-        int x = 12; // Para operadores betwise
-        int y = 9; // Para operadores betwise
+        int x = 14; // Para operadores betwise
+        int y = 7; // Para operadores betwise
 
         // Operadores aritméticos
         System.out.println("Suma de a y b: " + (a + b));
