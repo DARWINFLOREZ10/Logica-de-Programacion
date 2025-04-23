@@ -20,7 +20,7 @@ public class Main {
     public static void main(String[] args) {
         Main objeto = new Main();
         objeto.metodoPublico();
-        objeto.metodoPrivado(); // Esto funciona solo si se llama dentro de la misma clase
+        objeto.metodoPrivado(); // Esto funciona solo si se llama dentro de la misma clase y no desde otra clase
         objeto.metodoProtegido();
         objeto.metodoDefault();
     }
