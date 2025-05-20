@@ -1,0 +1,22 @@
+# Ignora archivos de compilación y directorios generados
+*.class
+*.jar
+*.war
+*.log
+
+# Ignora el directorio de salida Maven o Gradle
+target/
+build/
+
+# Ignora archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignora carpetas personales o temporales
+*.swp
+*.tmp
+.idea/
+*.iml
+
+# Ignora tu carpeta con el video (si aún existe)
+gestiontienda/src/main/java/com/actividad/
